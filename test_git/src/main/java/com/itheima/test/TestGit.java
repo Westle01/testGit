@@ -28,5 +28,8 @@ public class TestGit {
         /**
          * 开发者A，创建分支dev
          */
+        /**
+         * 开发者B，在分支dev下编写了代码
+         */
     }
 }
