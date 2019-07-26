@@ -34,6 +34,11 @@ public class TestGit {
         /**
          * 开发者A，修改修改
          */
-
+        /**
+         *
+         */
+        while(true){
+            int a = 1;
+        }
     }
 }
