@@ -19,5 +19,11 @@ public class TestGit {
         /**
          * 接着修改
          */
+        /**
+         * 开发者B，修改了下面的代码
+         */
+        while (1 > 0) {
+            System.out.println("xxx");
+        }
     }
 }
