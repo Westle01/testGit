@@ -22,9 +22,9 @@ public class TestGit {
         /**
          * 开发者B，修改了下面的代码
          */
-        while (1 > 0) {
-            System.out.println("xxx");
-        }
+
+        System.out.println("xxx");
+
         /**
          * 开发者A，创建分支dev
          */
@@ -37,7 +37,7 @@ public class TestGit {
         /**
          *
          */
-        while(true){
+        while (true) {
             int a = 1;
         }
     }
