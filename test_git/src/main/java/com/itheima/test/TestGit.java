@@ -25,5 +25,8 @@ public class TestGit {
         while (1 > 0) {
             System.out.println("xxx");
         }
+        /**
+         * 开发者A，创建分支dev
+         */
     }
 }
